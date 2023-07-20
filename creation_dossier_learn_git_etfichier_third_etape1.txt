@@ -1,0 +1,8 @@
+* creation dossier
+sur fenetre gomycode
+cliquer droit souris
+nouveau dossier
+renommer le dossier en learn_git
+cliquer droit souris
+nouveau document texte 
+renommer le fichier en third.txt
