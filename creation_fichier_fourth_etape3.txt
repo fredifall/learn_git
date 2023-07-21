@@ -1,0 +1,4 @@
+* sur fenetre learn_git
+cliquer droit souris
+nouveau document texte 
+renommer le fichier en fourth.txt
